@@ -160,7 +160,7 @@ export default function App() {
 
       <div className="bg-white shadow-sm sticky top-0 z-50">
         <div className="max-w-xl mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="font-bold text-rose-600 flex items-center gap-2">💖 Our Journey</h1>
+          <h1 className="font-bold text-rose-600 flex items-center gap-2">💖 WHAWAN 💖</h1>
           <div className="flex items-center gap-2">
             <button 
               onClick={toggleMusic} 
